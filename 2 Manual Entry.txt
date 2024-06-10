@@ -1,0 +1,21 @@
+**********************************************************
+Enter Wire Diameter(mm)                             [Range --> 5-15mm]
+Enter WR Surface Temperature(C)                     [Range --> 650-1000C]
+Enter air ambient temperature(C)                    [Range --> 20-50C]
+Enter total emissivity including shape factor       [Range --> 0-1]
+Enter average air velocities(m/s)                     
+**********************************************************
+6.5
+800
+45
+0.8
+0,2,8,16,25,30,35,40,45
+**********************************************************
+
+Notes - 1) The average air velocities should be written in the form- 0,1,2,3,56,100,234
+        2) Do not enter the parameters. Just enter the digits without any extra symbols.
+        3) Enter the data in the sequence as given.
+        4) Data should be written between ** lines given.
+        5) Save the file after entering the data.
+        6) Do not edit anything else other than the data entered.
+        7) Do not rename this or any other file.
